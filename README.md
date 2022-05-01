@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vitor 👋
 
 
-- 🔭 Atualmente trabalhando como Analista de Onboarding - Especialista em Nota Fiscal.
+- 🔭 Atualmente trabalhando como Estagiário em Desenvolvimento Fullstack.
 - 🌱 Aprendendo React e NodeJs
 - 🤔 Estou buscando meu primeiro emprego fixo como desenvolvedor
 - 📫 Contate-me no email: vitorramalhodev@gmail.com
