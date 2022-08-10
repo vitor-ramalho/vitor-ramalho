@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Vitor 👋
 
 
-- 🔭 Atualmente trabalhando como Estagiário em Desenvolvimento Fullstack.
+- 🔭 Atualmente trabalhando como Desenvolvedor Fullstack.
 - 🌱 Aprendendo React e NodeJs
-- 🤔 Estou buscando meu primeiro emprego fixo como desenvolvedor
 - 📫 Contate-me no email: vitorramalhodev@gmail.com
 
 <div>
